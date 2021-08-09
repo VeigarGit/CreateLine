@@ -1,0 +1,10 @@
+C:\Users\Rafael\Desktop\C#\Reta dois pontos\bin\Debug\Reta dois pontos.exe.config
+C:\Users\Rafael\Desktop\C#\Reta dois pontos\bin\Debug\Reta dois pontos.exe
+C:\Users\Rafael\Desktop\C#\Reta dois pontos\bin\Debug\Reta dois pontos.pdb
+C:\Users\Rafael\Desktop\C#\Reta dois pontos\obj\Debug\Reta_dois_pontos.Form1.resources
+C:\Users\Rafael\Desktop\C#\Reta dois pontos\obj\Debug\Reta_dois_pontos.Properties.Resources.resources
+C:\Users\Rafael\Desktop\C#\Reta dois pontos\obj\Debug\Reta dois pontos.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\C#\Reta dois pontos\obj\Debug\Reta dois pontos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\C#\Reta dois pontos\obj\Debug\Reta dois pontos.exe
+C:\Users\Rafael\Desktop\C#\Reta dois pontos\obj\Debug\Reta dois pontos.pdb
+C:\Users\Rafael\Desktop\C#\Reta dois pontos\obj\Debug\Reta dois pontos.csproj.AssemblyReference.cache
